@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "DemoMVC\\DemoMVC.csproj",
+      "projectTarget": "",
+      "name": "DemoMVC.csproj"
+    }
+  ]
+}
